@@ -93,6 +93,7 @@ Visual automation graphs I both *use* and *rebuild* — OpenFlow is my clean-roo
 Everflow is the platform layer. Teams build, review, and deploy AI-powered apps inside **pre-approved boundaries**, with isolated microVM sandboxes and a single public platform API. **OpenFlow** lives inside this world as the workflow automation engine — the two tie together: Everflow is the governed surface; OpenFlow is the automation fabric underneath.
 
 **Marketing site:** [EverFlow](http://everflow.bot/)
+
 **Tech Stack:** ![AI Agents](https://img.shields.io/badge/-AI_Agents-7C3AED?style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Governance](https://img.shields.io/badge/-Governance-0F766E?style=flat) ![RBAC](https://img.shields.io/badge/-RBAC-1E3A5F?style=flat) ![Apache-2.0](https://img.shields.io/badge/-Apache_2.0-D22128?style=flat)
 
 ---
