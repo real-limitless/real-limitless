@@ -92,7 +92,13 @@ Visual automation graphs I both *use* and *rebuild*. OpenFlow is my clean-room, 
 
 Everflow is the platform layer. Teams build, review, and deploy AI-powered apps inside **pre-approved boundaries**, with isolated microVM sandboxes and a single public platform API. **OpenFlow** lives inside this world as the workflow automation engine. The two tie together: Everflow is the governed surface; OpenFlow is the automation fabric underneath.
 
-**Marketing site:** [EverFlow](http://everflow.bot/)
+<p align="center">
+  <a href="https://everflow.bot/">
+    <img src="screenshots/everflow.png" alt="Everflow marketing site" width="900" />
+  </a>
+</p>
+
+**Marketing site:** [EverFlow](https://everflow.bot/)
 
 **Tech Stack:** ![AI Agents](https://img.shields.io/badge/-AI_Agents-7C3AED?style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Governance](https://img.shields.io/badge/-Governance-0F766E?style=flat) ![RBAC](https://img.shields.io/badge/-RBAC-1E3A5F?style=flat) ![Apache-2.0](https://img.shields.io/badge/-Apache_2.0-D22128?style=flat)
 
@@ -104,6 +110,20 @@ Everflow is the platform layer. Teams build, review, and deploy AI-powered apps 
 
 Docker-first (`docker compose up -d`), visual editor, template marketplace, credentials vault, and an AI assistant in the canvas. Part of the **Everflow** platform story: automation graphs that plug into a broader enterprise AI suite.
 
+<p align="center">
+  <a href="https://real-limitless.github.io/OpenFlow/">
+    <img src="screenshots/openflow-marketing.png" alt="OpenFlow marketing site" width="900" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="screenshots/openflow-app-editor-palette.png" alt="OpenFlow editor with node palette" width="900" />
+</p>
+
+| Workflows | Templates | Canvas |
+| :---: | :---: | :---: |
+| <img src="screenshots/openflow-app-home.png" alt="OpenFlow workflow list" width="280" /> | <img src="screenshots/openflow-app-templates.png" alt="OpenFlow template marketplace" width="280" /> | <img src="screenshots/openflow-app-editor.png" alt="OpenFlow workflow canvas" width="280" /> |
+
 **Marketing site:** [real-limitless.github.io/OpenFlow](https://real-limitless.github.io/OpenFlow/)
 
 **Tech Stack:** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Apache-2.0](https://img.shields.io/badge/-Apache_2.0-D22128?style=flat)
@@ -114,6 +134,12 @@ Docker-first (`docker compose up -d`), visual editor, template marketplace, cred
 
 ### 📈 [chiu.best](https://github.com/real-limitless/chiu.best)
 AI-powered stock analysis platform with **8 specialized agents** (fundamental, technical, sentiment + competition/policy/macro/risk/insider), real-time quotes, watchlists, portfolio tracking, and streaming chat. React + Django + OpenRouter.
+
+<p align="center">
+  <a href="https://chiu.best/">
+    <img src="screenshots/chiu-best.png" alt="chiu.best portfolio and stock platform" width="900" />
+  </a>
+</p>
 
 **Tech Stack:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat) ![AI](https://img.shields.io/badge/-OpenRouter-7C3AED?style=flat)
 
@@ -205,6 +231,14 @@ You can feel the wrath of Chen at the hint of any injustice. I don't like oversi
 ---
 
 ## 📫 Let's Connect!
+
+Same links as [chiu.best/links](https://chiu.best/links):
+
+<p align="center">
+  <a href="https://chiu.best/links">
+    <img src="screenshots/chiu-best-links.png" alt="chiu.best links page" width="700" />
+  </a>
+</p>
 
 <div align="center">
 
