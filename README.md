@@ -206,12 +206,36 @@ You can feel the wrath of Chen at the hint of any injustice. I don't like oversi
 
 ## 📫 Let's Connect!
 
+Same links as [chiu.best/links](https://chiu.best/links):
+
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-chiu.best-0F766E?style=for-the-badge)](https://chiu.best/)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-real--limitless-181717?style=for-the-badge&logo=github)](https://github.com/real-limitless)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Chen_Chiu-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chencorporation)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-@__real__limitless-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_real_limitless)
+[![YouTube](https://img.shields.io/badge/▶️_YouTube-Chen__Real__Limitless-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Chen_Real_Limitless)
+[![Blog](https://img.shields.io/badge/📝_Blog-Articles-7C3AED?style=for-the-badge)](https://chiu.best/blog)
+[![Merch](https://img.shields.io/badge/👕_Merch-Limitless-111827?style=for-the-badge)](https://chiu.best/merchandise)
+[![Contact](https://img.shields.io/badge/✉️_Contact-Reach_Out-EA580C?style=for-the-badge)](https://chiu.best/#contact)
+[![Tip Jar](https://img.shields.io/badge/☕_Buy_Me_a_Coffee-real.limitless-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/real.limitless)
+[![FestivalPass](https://img.shields.io/badge/🎟️_FestivalPass-Lifetime-EC4899?style=for-the-badge)](https://festivalpass.com/register?ref=Chen285886)
 
 </div>
+
+### ☕ Tip Jar
+
+If something I built saved you time, fueled a late-night deploy, or just made the stack a little more *yours* — [buy me a coffee](https://buymeacoffee.com/real.limitless). Every tip keeps the open-source lights on.
+
+### 🎸 Life Off the Keyboard — [FestivalPass](https://festivalpass.com/register?ref=Chen285886)
+
+Code is how I build. **Live music is how I remember I'm alive.**
+
+I go to a *lot* of concerts — stages, pits, festivals, late exits under parking-lot lights — and I do it through **[FestivalPass](https://festivalpass.com/register?ref=Chen285886)**. Same obsession as engineering: remove friction, maximize signal. FestivalPass is the membership that turns "I wish I could go" into "I'll be there" — concerts, shows, hotels, the whole circuit.
+
+There's something profound in standing in a crowd when the drop hits: no backlog, no merge conflict, no sprint board — just sound, strangers, and the brief proof that the universe still has volume. Building systems that scale is my craft. Showing up for the art that scales *us* is the balance. Unlimited on the repo. Unlimited in the room.
+
+**Join FestivalPass** (my ref): [festivalpass.com/register?ref=Chen285886](https://festivalpass.com/register?ref=Chen285886)
 
 ### 🤝 Open for Collaboration!
 
