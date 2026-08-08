@@ -153,7 +153,7 @@ Unofficial attributed collection of public n8n Community workflows — importabl
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-real--limitless-181717?style=for-the-badge&logo=github)](https://github.com/real-limitless)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Chen_Chiu-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/REPLACE_ME)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Chen_Chiu-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chencorporation)
 
 </div>
 
