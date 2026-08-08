@@ -1,7 +1,4 @@
 # 👋 Hi there, I'm Chen Chiu — AKA **LIMITLESS**
-
----
-
 ## 🚀 About Me
 
 I'm **Chen**, known online as **LIMITLESS** — a builder who ships self-hosted platforms, AI agent systems, and full-stack products. I work at **Red Hat**, and my views here are solely my own.
