@@ -206,8 +206,6 @@ You can feel the wrath of Chen at the hint of any injustice. I don't like oversi
 
 ## 📫 Let's Connect!
 
-Same links as [chiu.best/links](https://chiu.best/links):
-
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-chiu.best-0F766E?style=for-the-badge)](https://chiu.best/)
