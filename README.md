@@ -1,11 +1,5 @@
 # 👋 Hi there, I'm Chen Chiu — AKA **LIMITLESS**
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=600&color=7C3AED&center=true&vCenter=true&random=false&width=700&height=60&lines=Self-Hosted+Systems+Builder;AI+Agent+Integrator;Workflow+Automation+Engineer;Full-Stack+Builder;Open+Source+Advocate)](https://git.io/typing-svg)
-
-</div>
-
 ---
 
 ## 🚀 About Me
