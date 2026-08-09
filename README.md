@@ -232,14 +232,6 @@ You can feel the wrath of Chen at the hint of any injustice. I don't like oversi
 
 ## 📫 Let's Connect!
 
-Same links as [chiu.best/links](https://chiu.best/links):
-
-<p align="center">
-  <a href="https://chiu.best/links">
-    <img src="screenshots/chiu-best-links.png" alt="chiu.best links page" width="700" />
-  </a>
-</p>
-
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-chiu.best-0F766E?style=for-the-badge)](https://chiu.best/)
