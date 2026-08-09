@@ -35,6 +35,7 @@ I specialize in:
 
 - **🔄 Self-Hosted Workflow Automation**: n8n-compatible engines, visual editors, clean-room implementations
 - **🤖 AI Agents & Multi-Agent Systems**: orchestration, tool use, governance, streaming UX
+- **🛡️ Agent-Safe Ansible**: MCP control planes with check-first rituals and enrolled hub/spoke fleets
 - **☁️ Container-Native Platforms**: Docker, Podman, compose stacks, GHCR, one-line installers
 - **🧩 Full-Stack Product Engineering**: TypeScript/React frontends, Django/Node APIs, real-time data
 - **🏢 Enterprise AI Platforms**: governed workspaces, RBAC, skills/MCP/project marketplaces
@@ -130,6 +131,24 @@ Docker-first (`docker compose up -d`), visual editor, template marketplace, cred
 
 ---
 
+## ⚙️ Flagship: [ansible-flow-mcp](https://github.com/real-limitless/ansible-flow-mcp)
+
+**Give agents Ansible. Not the keys.** MCP server that exposes real Ansible modules and playbooks to AI agents — with a check-first ritual and an SSH hub/spoke fabric so multi-host automation is enrolled, bastion-scoped, and never god-mode freestyle.
+
+Two tracks: **agent loop** (`search → schema → check → execute` on allowlisted collections) and **fleet fabric** (one hub · join tokens · ForceCommand spokes · fixed inventory). Dual-tracked with the **OpenFlow** Ansible gallery.
+
+<p align="center">
+  <a href="https://github.com/real-limitless/ansible-flow-mcp">
+    <img src="screenshots/ansible-flow-mcp-hero.png" alt="ansible-flow-mcp hero: agent hub session and enrolled inventory" width="900" />
+  </a>
+</p>
+
+**Release:** [v0.1.0](https://github.com/real-limitless/ansible-flow-mcp/releases/tag/v0.1)
+
+**Tech Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![MCP](https://img.shields.io/badge/-MCP-0F766E?style=flat) ![SSH](https://img.shields.io/badge/-SSH_Hub%2FSpoke-1E3A5F?style=flat) ![Apache-2.0](https://img.shields.io/badge/-Apache_2.0-D22128?style=flat)
+
+---
+
 ## 🎯 Featured Projects
 
 ### 📈 [chiu.best](https://github.com/real-limitless/chiu.best)
@@ -184,6 +203,8 @@ Unofficial attributed collection of public n8n Community workflows: importable g
 ![Anthropic](https://img.shields.io/badge/-Anthropic-191919?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-0F766E?style=for-the-badge)
 
 ### Platforms & Ops
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -223,6 +244,7 @@ You can feel the wrath of Chen at the hint of any injustice. I don't like oversi
 
 - **Self-hosted AI & automation**: agents, workflows, sandboxes, data sovereignty
 - **Enterprise AI platforms**: Everflow-class governance, RBAC, skills/MCP marketplaces
+- **Agent-safe Ansible / MCP control planes**: check-first modules, enrolled hub/spoke fleets
 - **Clean-room / independent open source**: compatible interfaces without copying proprietary engines
 - **Productized full-stack builds**: from compose files to polished React UIs
 - **Container-native developer tooling**: reproducible environments and compose-first deploys
@@ -266,6 +288,7 @@ There's something profound in standing in a crowd when the drop hits: no backlog
 I'm always interested in projects involving:
 - **Self-hosted workflow engines and automation platforms**
 - **Governed AI agent systems and sandboxed agent runtimes**
+- **Agent-safe Ansible and MCP control planes for real fleets**
 - **Full-stack AI product builds (React + Python/Node)**
 - **Open source tooling people can actually run**
 - **Open conversations on AI technology** (no pitch required)
