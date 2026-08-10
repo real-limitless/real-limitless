@@ -3,7 +3,8 @@
 
 I'm **Chen**, known online as **LIMITLESS**. I'm a builder who ships self-hosted platforms, AI agent systems, and full-stack products. I work at **Red Hat**, and my views here are solely my own.
 
-I care about **owning your infrastructure**: clean-room open source, Docker/Podman-first deploys, governance around AI, and tools that stay under *your* control. Whether I'm designing workflow engines, multi-agent systems, or containerized dev environments, the through-line is the same: build systems people can run, inspect, and extend.
+I care about **making sure you own your infrastructure**: clean-room open source, Docker/Podman-first deploys, governance around AI, and tools that stay under *your* control. Whether I'm designing workflow engines, multi-agent systems, or containerized dev environments, the through-line is the same: build systems people can run, inspect, and extend.
+I dont like being vendor locked, into a provider. I like giving the people a choice.
 
 **Unlimited** is my favorite word. If it has that label, I'm already interested.
 
